@@ -24,3 +24,8 @@ C:\Code\Udemy\Net8Arch\Section4\ToDoApi\TodoApi\obj\Debug\net8.0\refint\TodoApi.
 C:\Code\Udemy\Net8Arch\Section4\ToDoApi\TodoApi\obj\Debug\net8.0\TodoApi.pdb
 C:\Code\Udemy\Net8Arch\Section4\ToDoApi\TodoApi\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
 C:\Code\Udemy\Net8Arch\Section4\ToDoApi\TodoApi\obj\Debug\net8.0\ref\TodoApi.dll
+C:\Code\Udemy\Net8Arch\Section4\ToDoApi\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Code\Udemy\Net8Arch\Section4\ToDoApi\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Code\Udemy\Net8Arch\Section4\ToDoApi\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Code\Udemy\Net8Arch\Section4\ToDoApi\TodoApi\obj\Debug\net8.0\TodoApi.csproj.AssemblyReference.cache
+C:\Code\Udemy\Net8Arch\Section4\ToDoApi\TodoApi\obj\Debug\net8.0\TodoApi.csproj.Up2Date
