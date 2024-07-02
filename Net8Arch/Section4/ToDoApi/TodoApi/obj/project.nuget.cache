@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KVlucxh+GMw3YRK/q6mhoItW78UB2kkkpqsY5cc+YcdXIiTeVG4QC3rkX/UwcDgOfaz9nalRAV1BEno4D+Nh5g==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\Udemy\\Net8Arch\\Section4\\ToDoApi\\TodoApi\\TodoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\murat\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
