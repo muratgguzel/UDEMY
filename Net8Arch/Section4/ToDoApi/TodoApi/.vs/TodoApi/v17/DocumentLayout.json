@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Code\\Udemy\\Net8Arch\\Section4\\ToDoApi\\TodoApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E080B71D-586B-41BE-B654-9C0233E452DA}|TodoApi.csproj|c:\\code\\udemy\\net8arch\\section4\\todoapi\\todoapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E080B71D-586B-41BE-B654-9C0233E452DA}|TodoApi.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E080B71D-586B-41BE-B654-9C0233E452DA}|TodoApi.csproj|c:\\code\\udemy\\net8arch\\section4\\todoapi\\todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E080B71D-586B-41BE-B654-9C0233E452DA}|TodoApi.csproj|solutionrelative:todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E080B71D-586B-41BE-B654-9C0233E452DA}|TodoApi.csproj|c:\\code\\udemy\\net8arch\\section4\\todoapi\\todoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E080B71D-586B-41BE-B654-9C0233E452DA}|TodoApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E080B71D-586B-41BE-B654-9C0233E452DA}|TodoApi.csproj|c:\\code\\udemy\\net8arch\\section4\\todoapi\\todoapi\\todoapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E080B71D-586B-41BE-B654-9C0233E452DA}|TodoApi.csproj|solutionrelative:todoapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E080B71D-586B-41BE-B654-9C0233E452DA}|TodoApi.csproj|c:\\code\\udemy\\net8arch\\section4\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E080B71D-586B-41BE-B654-9C0233E452DA}|TodoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E080B71D-586B-41BE-B654-9C0233E452DA}|TodoApi.csproj|c:\\code\\udemy\\net8arch\\section4\\todoapi\\todoapi\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E080B71D-586B-41BE-B654-9C0233E452DA}|TodoApi.csproj|solutionrelative:todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E080B71D-586B-41BE-B654-9C0233E452DA}|TodoApi.csproj|c:\\code\\udemy\\net8arch\\section4\\todoapi\\todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E080B71D-586B-41BE-B654-9C0233E452DA}|TodoApi.csproj|solutionrelative:todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +38,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Code\\Udemy\\Net8Arch\\Section4\\ToDoApi\\TodoApi\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Code\\Udemy\\Net8Arch\\Section4\\ToDoApi\\TodoApi\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-04T21:09:34.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoApi",
+              "DocumentMoniker": "C:\\Code\\Udemy\\Net8Arch\\Section4\\ToDoApi\\TodoApi\\TodoApi.csproj",
+              "RelativeDocumentMoniker": "TodoApi.csproj",
+              "ToolTip": "C:\\Code\\Udemy\\Net8Arch\\Section4\\ToDoApi\\TodoApi\\TodoApi.csproj",
+              "RelativeToolTip": "TodoApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T21:03:45.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Code\\Udemy\\Net8Arch\\Section4\\ToDoApi\\TodoApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Code\\Udemy\\Net8Arch\\Section4\\ToDoApi\\TodoApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T21:02:35.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "TodoDb.cs",
               "DocumentMoniker": "C:\\Code\\Udemy\\Net8Arch\\Section4\\ToDoApi\\TodoApi\\TodoDb.cs",
               "RelativeDocumentMoniker": "TodoDb.cs",
@@ -38,13 +88,12 @@
               "RelativeToolTip": "TodoDb.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T00:32:16.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T00:32:16.482Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TodoApi",
+              "DocumentIndex": 1,
+              "Title": "TodoApi.csproj",
               "DocumentMoniker": "C:\\Code\\Udemy\\Net8Arch\\Section4\\ToDoApi\\TodoApi\\TodoApi.csproj",
               "RelativeDocumentMoniker": "TodoApi.csproj",
               "ToolTip": "C:\\Code\\Udemy\\Net8Arch\\Section4\\ToDoApi\\TodoApi\\TodoApi.csproj",
@@ -56,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "TodoItem.cs",
               "DocumentMoniker": "C:\\Code\\Udemy\\Net8Arch\\Section4\\ToDoApi\\TodoApi\\TodoItem.cs",
               "RelativeDocumentMoniker": "TodoItem.cs",
@@ -64,12 +113,11 @@
               "RelativeToolTip": "TodoItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T00:28:00.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T00:28:00.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Code\\Udemy\\Net8Arch\\Section4\\ToDoApi\\TodoApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
